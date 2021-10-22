@@ -1,0 +1,21 @@
+.asesorias{
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    padding: 20px;
+}
+
+.asesoriasTarjetas{
+    margin: 20px;
+}
+
+.asesorias a{
+    display: flex;
+    justify-content: center;
+}
+
+.card-body{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.5;
+    height: 320px;
+}
